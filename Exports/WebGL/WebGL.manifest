@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spatial-island_default_0
+      Hash: 55fd40494413a56ab6e321aa220acc34
+      CRC: 1814899106
+      Dependencies: {}
